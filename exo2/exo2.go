@@ -5,8 +5,6 @@ package exo2
 
 import "fmt"
 
-
-
 func main() {
 var nbroftransactions int
 var time string
