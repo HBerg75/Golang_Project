@@ -26,9 +26,5 @@ case "seconde":
 	fmt.Println("Nombre de transactions par seconde : ", nbroftransactions/second)
 default:
 	fmt.Println("Erreur")
-
-
-
-	
 }
 }
